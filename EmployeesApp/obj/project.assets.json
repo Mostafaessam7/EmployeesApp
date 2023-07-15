@@ -10022,11 +10022,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\project .Net\\EmployeesApp\\EmployeesApp\\EmployeesApp.csproj",
+      "projectUniqueName": "F:\\project .Net\\GitHub Project\\EmployeesApp\\EmployeesApp\\EmployeesApp.csproj",
       "projectName": "EmployeesApp",
-      "projectPath": "F:\\project .Net\\EmployeesApp\\EmployeesApp\\EmployeesApp.csproj",
+      "projectPath": "F:\\project .Net\\GitHub Project\\EmployeesApp\\EmployeesApp\\EmployeesApp.csproj",
       "packagesPath": "C:\\Users\\ALMASA\\.nuget\\packages\\",
-      "outputPath": "F:\\project .Net\\EmployeesApp\\EmployeesApp\\obj\\",
+      "outputPath": "F:\\project .Net\\GitHub Project\\EmployeesApp\\EmployeesApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ALMASA\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "15kyk8xS00FXhXLp09LHsuKuhh1jy9t+cQm16B5Zq3STg5rIN6f7Gr8mI6DBA65PWBlzXZzlvDmIO2FWNt0T0A==",
+  "dgSpecHash": "LbUBSDymssT2Bl/aI1yzDb40xHcw3KTpzXVbM3SHw+qWFKhdHsHwTvzQLrUdOAWK6eWcmzeU02VPol3w3is+Lw==",
   "success": true,
-  "projectFilePath": "F:\\project .Net\\EmployeesApp\\EmployeesApp\\EmployeesApp.csproj",
+  "projectFilePath": "F:\\project .Net\\GitHub Project\\EmployeesApp\\EmployeesApp\\EmployeesApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ALMASA\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ALMASA\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

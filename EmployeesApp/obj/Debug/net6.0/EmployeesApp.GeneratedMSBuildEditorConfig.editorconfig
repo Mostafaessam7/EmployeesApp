@@ -9,45 +9,45 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EmployeesApp
 build_property.RootNamespace = EmployeesApp
-build_property.ProjectDir = F:\project .Net\EmployeesApp\EmployeesApp\
+build_property.ProjectDir = F:\project .Net\GitHub Project\EmployeesApp\EmployeesApp\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = F:\project .Net\EmployeesApp\EmployeesApp
+build_property.MSBuildProjectDirectory = F:\project .Net\GitHub Project\EmployeesApp\EmployeesApp
 build_property._RazorSourceGeneratorDebug = 
 
-[F:/project .Net/EmployeesApp/EmployeesApp/Views/Employee/Create.cshtml]
+[F:/project .Net/GitHub Project/EmployeesApp/EmployeesApp/Views/Employee/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/project .Net/EmployeesApp/EmployeesApp/Views/Employee/Index.cshtml]
+[F:/project .Net/GitHub Project/EmployeesApp/EmployeesApp/Views/Employee/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/project .Net/EmployeesApp/EmployeesApp/Views/Home/Index.cshtml]
+[F:/project .Net/GitHub Project/EmployeesApp/EmployeesApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/project .Net/EmployeesApp/EmployeesApp/Views/Home/Privacy.cshtml]
+[F:/project .Net/GitHub Project/EmployeesApp/EmployeesApp/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/project .Net/EmployeesApp/EmployeesApp/Views/Shared/Error.cshtml]
+[F:/project .Net/GitHub Project/EmployeesApp/EmployeesApp/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/project .Net/EmployeesApp/EmployeesApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+[F:/project .Net/GitHub Project/EmployeesApp/EmployeesApp/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/project .Net/EmployeesApp/EmployeesApp/Views/_ViewImports.cshtml]
+[F:/project .Net/GitHub Project/EmployeesApp/EmployeesApp/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/project .Net/EmployeesApp/EmployeesApp/Views/_ViewStart.cshtml]
+[F:/project .Net/GitHub Project/EmployeesApp/EmployeesApp/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/project .Net/EmployeesApp/EmployeesApp/Views/Shared/_Layout.cshtml]
+[F:/project .Net/GitHub Project/EmployeesApp/EmployeesApp/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-zh8e5ycytn
